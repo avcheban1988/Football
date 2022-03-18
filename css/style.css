@@ -455,6 +455,11 @@ a:active {
   }
 }
 
+@media screen and (max-width: 375px) {
+  html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body#body div.container nav#top-nav.navbar.navigation a.navbar-brand.logo h1.logo123 img{
+    width: 105%;
+  }
+}
 
 #viewport {
   width: 100vw;
@@ -502,4 +507,7 @@ html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-webs
 html.js.flexbox.canvas.canvastext.webgl.no-touch.geolocation.postmessage.no-websqldatabase.indexeddb.hashchange.history.draganddrop.websockets.rgba.hsla.multiplebgs.backgroundsize.borderimage.borderradius.boxshadow.textshadow.opacity.cssanimations.csscolumns.cssgradients.no-cssreflections.csstransforms.csstransforms3d.csstransitions.fontface.generatedcontent.video.audio.localstorage.sessionstorage.webworkers.applicationcache.svg.inlinesvg.smil.svgclippaths body#body footer div.container.text-center div.row div.col-md-12 div.block ul.menu{
   margin-bottom: 20px;
   background-color:#f9a743;
+}
+.container__sertif{
+  margin-top: 40px;
 }
